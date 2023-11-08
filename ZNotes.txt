@@ -1,0 +1,2 @@
+1. npm install nodemon --save-dev
+2. npm install -g concurrently
